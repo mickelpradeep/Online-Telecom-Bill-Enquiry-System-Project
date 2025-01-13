@@ -13,32 +13,38 @@ The Online Telecom Bill Enquiry System (OTBES) is a centralized platform develop
 
 ## **Modules and Functionalities**
 **1. Customer Management**
+
 Captures user details such as name, contact information, and address.
 Generates unique customer IDs.
 Enables customers to update personal information.
 Allows secure credential creation for login.
 
 **2. Connection Management**
+
 Supports applying for connections (prepaid/postpaid/broadband).
 Manages multiple connections for a single user.
 Tracks modifications to connection details.
 
 **3. Plan Management**
+
 Allows customers to choose from a range of telecom plans.
 Admins can add, update, or deactivate plans.
 Sends email notifications for plan expiry or billing cycles.
 
 **4. Bill Management**
+
 Generates accurate bills based on usage, plan, and additional charges.
 Enables viewing, downloading, and online payment of bills.
 Sends reminders for bill due dates and unpaid bills via email.
 
 **5. Complaint Management**
+
 Customers can log and track complaints.
 Includes escalation processes and feedback submission.
 Admins can assign and resolve complaints efficiently.
 
 **6. Report Generation**
+
 Generates insights such as customer activity, most popular plans, and unresolved complaints.
 Helps administrators analyze revenue and performance metrics.
 
