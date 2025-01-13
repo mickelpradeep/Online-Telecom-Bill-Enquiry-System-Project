@@ -94,3 +94,8 @@ spring.mail.password=your_email_password
 - Develop mobile applications for better accessibility.
 - Introduce multi-language support.
 - Implement AI-based chatbots for automated support.
+
+## **Acknowledgments**
+Thank the mentor & project guides, and team members for their support and collaboration.
+
+Mentor: Sudha C (https://github.com/springboardmentor403)
