@@ -66,13 +66,13 @@ Helps administrators analyze revenue and performance metrics.
 1. Navigate to the project directory and open the backend and frontend projects separately in STS.
 
 2. Configure **application.properties** for database and mail settings:
-
-  spring.datasource.url=jdbc:mysql://localhost:3306/otbes
-  spring.datasource.username=your_db_username
-  spring.datasource.password=your_db_password
-  spring.mail.username=your_email@gmail.com
-  spring.mail.password=your_email_password
-
+```application.properties
+spring.datasource.url=jdbc:mysql://localhost:3306/otbes
+spring.datasource.username=your_db_username
+spring.datasource.password=your_db_password
+spring.mail.username=your_email@gmail.com
+spring.mail.password=your_email_password
+```
 3. Build and run the backend project (OTBS) and the frontend project (OTBSClient).
 4. Access the application in your browser:
 Frontend: http://localhost:8091
