@@ -105,4 +105,5 @@ spring.mail.password=your_email_password
 Thank the mentor & project guides, and team members for their support and collaboration.
 
 Mentor: Sudha C (https://github.com/springboardmentor403)
+
 **Thanks to all Team members**
