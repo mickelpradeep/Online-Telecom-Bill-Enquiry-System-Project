@@ -75,5 +75,5 @@ spring.mail.password=your_email_password
 ```
 3. Build and run the backend project (OTBS) and the frontend project (OTBSClient).
 4. Access the application in your browser:
-Frontend: http://localhost:8091
-Backend API: http://localhost:8080/api/customers
+   Frontend: http://localhost:8091
+   Backend API: http://localhost:8080/api/customers
