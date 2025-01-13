@@ -79,3 +79,18 @@ spring.mail.password=your_email_password
    Frontend: http://localhost:8091
 
    Backend API: http://localhost:8080/api/customers
+
+## **Key Highlights**
+- Implements client-side and server-side validations for all entities.
+- Features email notifications for registration success and billing updates.
+- Modular design to facilitate seamless integration and scalability.
+
+## **Challenges Faced**
+- Ensuring seamless communication between the frontend and backend.
+- Debugging complex modules like billing and complaint management.
+- Handling user-friendly error messages during registration and login.
+
+## **Future Enhancements**
+- Develop mobile applications for better accessibility.
+- Introduce multi-language support.
+- Implement AI-based chatbots for automated support.
