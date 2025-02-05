@@ -1,4 +1,4 @@
-# Infosys Springboard Intership (Batch-2)
+# Infosys Springboard Internship (Batch-2)
 # Online Telecom Bill Enquiry System (OTBS)
 
 ## **Overview**
